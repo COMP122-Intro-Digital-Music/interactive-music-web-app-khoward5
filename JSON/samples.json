@@ -12,12 +12,6 @@
     "loop": "1m"
   },
   {
-    "name": "pur",
-    "file": "samples/cat-purring.mp3",
-    "bpm": "120",
-    "loop": "2m"
-  },
-  {
     "name": "Bass",
     "file": "samples/AtlantisGhostFunkBass[A].wav",
     "bpm": "93",
