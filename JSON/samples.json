@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Bush",
+    "file": "samples/Bush.mp3.mp3",
+    "bpm": "120",
+    "loop": "15m"
+  },
+  {
+    "name": "cat-purring",
+    "file": "samples/cat-purring.mp3.mp3",
+    "bpm": "120",
+    "loop": "2m"
+  },
+  {
+    "name": "cats-meow.mp3",
+    "file": "samples/cats-meow.mp3.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
