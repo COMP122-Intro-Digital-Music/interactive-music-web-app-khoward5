@@ -6,15 +6,21 @@
     "loop": "15m"
   },
   {
-    "name": "cat-purring",
+    "name": "Meow",
+    "file": "samples/cats-meow.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "pur",
     "file": "samples/cat-purring.mp3",
     "bpm": "120",
     "loop": "2m"
   },
   {
-    "name": "cats-meow.mp3",
-    "file": "samples/cats-meow.mp3",
-    "bpm": "120",
-    "loop": "1m"
+    "name": "Bass",
+    "file": "samples/AtlantisGhostFunkBass[A].wav",
+    "bpm": "93",
+    "loop": "5m"
   }
 ]
